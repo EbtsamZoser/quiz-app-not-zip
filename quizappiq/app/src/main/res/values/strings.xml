@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">quiz app iq</string>
+    <string name="quiz1">Which one of the four is least like the other three</string>
+    <string name="quiz2">Which number should come next in the series?
+         \n\1 - 1 - 2 - 3 - 5 - 8 - 13</string>
+    <string name="quiz3">Which one of the five choices makes the best comparison?
+        \n\PEACH is to HCAEP as 46251 is to:</string>
+    <string name="quiz4">Mary, who is sixteen years old, is four times as old as her brother.
+        \n\How old will Mary be when she is twice as old as her brother?</string>
+    <string name="quiz5">Which larger shape would be made if the two sections are fitted together?</string>
+
+    <string name="answer1a">Mouse</string>
+    <string name="answer1b">Lion</string>
+    <string name="answer1c">Snake</string>
+    <string name="answer1d">Elephant</string>
+
+    <string name="answer2a">13</string>
+    <string name="answer2b">21</string>
+    <string name="answer2c">26</string>
+    <string name="answer2d">31</string>
+
+    <string name="answer3a">15264</string>
+    <string name="answer3b">12654</string>
+    <string name="answer3c">51462</string>
+    <string name="answer3d">25641</string>
+
+    <string name="answer4a">26</string>
+    <string name="answer4b">25</string>
+    <string name="answer4c">20</string>
+    <string name="answer4d">24</string>
+
+    <string name="answer5a">a</string>
+    <string name="answer5b">b</string>
+    <string name="answer5c">c</string>
+    <string name="answer5d">d</string>
+
+    <string name="low">Your IQ is low</string>
+    <string name="average">Your IQ is average</string>
+    <string name="high">Your IQ is high</string>
+    <string name="genius">Your IQ is very high you are a genius</string>
+
+    <string name="iq">IQ quiz</string>
+    <string name="iqsub">get here to test you IQ</string>
+
+    <string name="icdl">ICDL quiz</string>
+    <string name="icdlsub">get here to test you ICDL</string>
+
+    <string name="english">English quiz</string>
+    <string name="englishsub">get here to test you Englis</string>
+
+    <string name="interview">InterView quiz</string>
+    <string name="interviewsub">get here to test you InterView</string>
+
+    <string name="psychological">psychological quiz</string>
+    <string name="psychologicalsub">get here to test you psychological</string>
+
+</resources>
